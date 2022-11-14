@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "trivia-9c64e": {
+      "hosting": {
+        "tictactoe": [
+          "trivia-9c64e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "trivia-9c64e"
+  }
+}

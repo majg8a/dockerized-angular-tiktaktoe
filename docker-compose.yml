@@ -1,0 +1,7 @@
+services:
+  jupyter:
+    image: angular12
+    ports:
+      - "4200:4200"
+    volumes:
+      - .:/app
